@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bare
 title: 隐私政策 - 圆葱芯（PeelIn）
 permalink: /PeelIn/Privacy/
 ---
