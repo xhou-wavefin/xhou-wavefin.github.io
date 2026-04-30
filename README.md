@@ -1,12 +1,6 @@
----
-layout: default
-title: 侯辛宇
----
+# xhou-wavefin.github.io
 
-# 侯辛宇
+侯辛宇个人主页源码。
 
-个人主页
-
-## 联系
-
-- 邮箱：xinyuhoujerry@gmail.com
+- 主页：https://xhou-wavefin.github.io/
+- 圆葱芯（PeelIn）隐私政策：https://xhou-wavefin.github.io/PeelIn/Privacy/
